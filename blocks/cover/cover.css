@@ -1,0 +1,33 @@
+.cover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 1184px;
+    max-height: 740px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        padding-bottom: 92px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        padding-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover {
+        padding-bottom: 64px;
+    }
+}
