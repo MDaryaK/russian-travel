@@ -1,9 +1,9 @@
 .places {
-    margin-top: 92px;
-    padding: 0px 148px;
+    padding: 0px 148px 92px;
     display: grid;
-    width: 984px;
+    width: 100%;
     gap: 80px;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1200px) {

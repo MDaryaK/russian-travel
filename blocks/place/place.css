@@ -5,6 +5,7 @@
         "place__image place__text";
     row-gap: 48px;
     column-gap: 40px;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1200px) {
