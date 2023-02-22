@@ -2,7 +2,7 @@
 
 Ссылка на курс - https://practicum.yandex.ru/web/
 
-Ссылка на проект для просмотра -https://github.com/MDaryaK/russian-travel
+Ссылка на проект gh pages -https://mdaryak.github.io/russian-travel/
 
 Описание проекта.
 Создание сайта по макету Figma. Оптимизация проекта на разрешениях экранов популярных устройств: телефоны, планшеты, ноутбуки и более широкие мониторы.

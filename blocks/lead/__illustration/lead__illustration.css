@@ -1,7 +1,8 @@
 .lead__illustration {
-   width: 984px;
-    height: 615px;
-}
+  width: 984px;
+  object-fit: cover;
+  object-position: center;
+ }
 
 @media screen and (max-width: 1024px) {
     .lead__illustration {
