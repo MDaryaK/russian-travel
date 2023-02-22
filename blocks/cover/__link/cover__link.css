@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/russian-travel/images/cover-trains.jpg);
+    background-image: url(/images/cover-trains.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,6 +12,8 @@
     text-decoration: none;
     position: relative;
     filter: brightness(40%);
+    object-fit: cover;
+    object-position: center;
 }
 
 .cover__link::before {
