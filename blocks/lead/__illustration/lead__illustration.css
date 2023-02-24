@@ -8,6 +8,7 @@
     .lead__illustration {
         max-width: 928px;
         max-height: 580px;
+        padding: 0 48px;
     }
 }
 
