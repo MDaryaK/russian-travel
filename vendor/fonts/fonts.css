@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../fonts/russian-travel/Inter-Regular.ttf") format("ttf");
+  src: url("../fonts/russian-travel/Inter-Regular.ttf") format("truetype");
 
 }
 @font-face {
@@ -11,12 +11,12 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("../fonts/russian-travel/Inter-Bold.ttf") format("ttf");
+  src: url("../fonts/russian-travel/Inter-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url("../fonts/russian-travel/Inter-Black.ttf") format("ttf");
+  src: url("../fonts/russian-travel/Inter-Black.ttf") format("truetype");
 }
